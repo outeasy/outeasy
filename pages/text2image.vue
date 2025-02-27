@@ -353,7 +353,7 @@
           currentPage = '';
           currentLineCount = 0;
         } else {
-          //currentPage += '\n';
+          currentPage += '\n';
           currentLineCount++;
         }
         return;
